@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographialus01brotgoog_0260.png"; bbox 0 0 1233 1808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 173 1306 1109 1355">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 173 1306 1109 1355">
+     <span class='ocr_line' id='line_1_1' title="bbox 173 1306 1109 1355; baseline -0.009 -18"><span class='ocrx_word' id='word_1_1' title='bbox 173 1315 262 1355; x_wconf 28' lang='lat' dir='ltr'><em>&amp;0AE¹2</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 281 1316 303 1353; x_wconf 58' lang='lat' dir='ltr'><em>y</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 510 1311 642 1332; x_wconf 67' lang='lat' dir='ltr'>UNoNJIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 717 1307 838 1333; x_wconf 61' lang='lat' dir='ltr'><em>cadamus</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 940 1329 956 1333; x_wconf 37' lang='grc' dir='ltr'><em>,Α</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 964 1306 1025 1333; x_wconf 56' lang='lat' dir='ltr'><em>h&#39;jall„</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1040 1317 1058 1332; x_wconf 60' lang='lat' dir='ltr'><em>J,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1068 1312 1109 1339; x_wconf 58' lang='lat' dir='ltr'><em>est</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1190 967 1193 1612">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1190 967 1193 1612">
+     <span class='ocr_line' id='line_1_2' title="bbox 1190 967 1193 1612; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1190 967 1193 1612; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

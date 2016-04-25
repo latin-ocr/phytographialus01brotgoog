@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./phytographialus01brotgoog_0270.png"; bbox 0 0 1233 1808; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 460 1516 833 1548">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 460 1516 833 1548">
+     <span class='ocr_line' id='line_1_1' title="bbox 460 1516 833 1548; baseline 0.003 -9"><span class='ocrx_word' id='word_1_1' title='bbox 460 1516 511 1539; x_wconf 79' lang='grc' dir='ltr'><em>ΟΝ</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 515 1516 566 1539; x_wconf 86' lang='grc' dir='ltr'><em>ΟΝ</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 571 1516 583 1540; x_wconf 91' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 591 1517 606 1540; x_wconf 92' lang='lat' dir='ltr'>S</span> <span class='ocrx_word' id='word_1_5' title='bbox 663 1516 833 1548; x_wconf 61' lang='lat' dir='ltr'><em>arthopocllta.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
